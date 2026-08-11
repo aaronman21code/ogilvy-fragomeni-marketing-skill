@@ -3,6 +3,7 @@
 Turn products, services, brands, concepts, and ideas into marketing that earns attention, builds trust, and sells.
 
 ---
+![banner](assets/banner.png)
 
 ## What this is
 
